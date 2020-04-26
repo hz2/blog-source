@@ -11,14 +11,12 @@ ssh-keyscan -t rsa github.com >> /root/.ssh/known_hosts
 REPOSITORY_PATH="https://github.com/${GITHUB_REPOSITORY}.git"
 
 # deployment
-if [ "$INPUT_COMMIT_MSG" == "" ]
-then
-    npm run build
-else
-    hexo g -d -m "$INPUT_COMMIT_MSG"
-fi
-
-
+# if [ "$INPUT_COMMIT_MSG" == "" ]
+# then
+#     npm run build
+# else
+#     hexo g -d -m "$INPUT_COMMIT_MSG"
+# fi
 
 
 echo "Clean folder ..."
