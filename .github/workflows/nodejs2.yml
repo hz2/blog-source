@@ -15,18 +15,8 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - name: Clean
-      uses: heowc/action-hexo@master
-      with:
-        args: clean
-    - name: Generate
-      uses: heowc/action-hexo@master
-      with:
-        args: generate
-    - name: Deploy
-      uses: heowc/action-hexo@master
+    - uses: actions/checkout@master
+    - name: hexo-deploy-gh-pages
+      uses: khanhicetea/gh-actions-hexo-deploy-gh-pages@master
       env:
-        EMAIL: input email ...
-        NAME: input name ...
-      with:
-        args: deploy
+        GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
