@@ -9,6 +9,7 @@ chmod 600 /root/.ssh/id_rsa
 ssh-keyscan -t rsa github.com >> /root/.ssh/known_hosts
 
 REPOSITORY_PATH="https://github.com/${GITHUB_REPOSITORY}.git"
+BRANCH = "gh_page"
 
 # deployment
 # if [ "$INPUT_COMMIT_MSG" == "" ]
@@ -48,15 +49,15 @@ git remote add origin "${REPOSITORY_PATH}"
 #   git checkout --orphan $BRANCH
 # fi
 
-git checkout --orphan $INPUT_BRANCH
+git checkout --orphan $BRANCH
 
 git add --all
 
 echo 'Start Commit'
-git commit --allow-empty -m "Deploying to ${INPUT_BRANCH}"
+git commit --allow-empty -m "Deploying to ${BRANCH}"
 
 echo 'Start Push'
-git push origin "${INPUT_BRANCH}" --force
+git push origin "${BRANCH}" --force
 
 echo "Deployment succesful!"
 

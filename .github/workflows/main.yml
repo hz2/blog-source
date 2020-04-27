@@ -32,7 +32,7 @@ jobs:
     # Deploy hexo blog website.
     - name: Step ④ Deploy
       id: deploy
-      uses: ./workflows # Uses an action in the root directory
+      uses: ./workflow # Uses an action in the root directory
       with:
         deploy_key: ${{ secrets.DEPLOY_KEY }}
         commit_msg: ${{ github.event.head_commit.message }}  # (or delelte this input setting to use hexo default settings)
