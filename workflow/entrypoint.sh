@@ -2,11 +2,14 @@
 
 set -e
 
+echo $INPUT_DEPLOY_KEY
 # setup ssh-private-key
 mkdir -p /root/.ssh/
 echo "$INPUT_DEPLOY_KEY" > /root/.ssh/id_rsa
 chmod 600 /root/.ssh/id_rsa
 ssh-keyscan -t rsa github.com >> /root/.ssh/known_hosts
+
+ls -al /root/.ssh/
 
 REPOSITORY_PATH="https://github.com/${GITHUB_REPOSITORY}.git"
 BRANCH="gh_page"
@@ -18,6 +21,9 @@ BRANCH="gh_page"
 # else
 #     hexo g -d -m "$INPUT_COMMIT_MSG"
 # fi
+
+
+ssh -T 'git@github.com' -y
 
 
 echo "Clean folder ..."
