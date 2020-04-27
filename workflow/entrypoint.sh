@@ -4,19 +4,11 @@ set -e
 echo '$INPUT_DEPLOY_KEY === > '
 echo $INPUT_DEPLOY_KEY
 
-
-echo "Hello $1"
-echo "Hello $2"
-echo "Hello $3"
-echo "Hello $4"
-echo "Hello $5"
-
 # setup ssh-private-key
 mkdir -p /root/.ssh/
 echo "$INPUT_DEPLOY_KEY" > /root/.ssh/id_rsa
 chmod 600 /root/.ssh/id_rsa
 ssh-keyscan -t rsa github.com >> /root/.ssh/known_hosts
-
 
 
 REPOSITORY_PATH="https://github.com/${GITHUB_REPOSITORY}.git"
