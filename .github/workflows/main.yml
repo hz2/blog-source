@@ -34,6 +34,7 @@ jobs:
       id: deploy
       uses: ./workflow # Uses an action in the root directory
       with:
+        who_to_greet: 'Mona the Octocat'
         deploy_key: ${{ secrets.GIT_DEPLOY_KEY }}
         commit_msg: ${{ github.event.head_commit.message }}  # (or delelte this input setting to use hexo default settings)
 

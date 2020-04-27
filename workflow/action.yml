@@ -1,7 +1,9 @@
 name: 'Hexo Action'
-description: 'Hexo CI/CD action for automating deployment.'
-author: 'sma11black'
 inputs:
+  who_to_greet:
+    description: 'Who to greet'
+    required: true
+    default: 'World'
   deploy_key:
     description: 'The deploy key for Github Pages repo'
     required: true
@@ -17,6 +19,7 @@ runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
+    - ${{ inputs.who_to_greet }}
     - ${{ inputs.deploy_key }}
 branding:
   icon: 'package'  
