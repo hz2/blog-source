@@ -2,11 +2,17 @@
 
 set -e
 
+echo $INPUT_DEPLOY_KEY
+
 # setup ssh-private-key
 mkdir -p /root/.ssh/
 echo "$INPUT_DEPLOY_KEY" > /root/.ssh/id_rsa
 chmod 600 /root/.ssh/id_rsa
 ssh-keyscan -t rsa github.com >> /root/.ssh/known_hosts
+
+
+echo $INPUT_DEPLOY_KEY
+
 
 REPOSITORY_PATH="https://github.com/${GITHUB_REPOSITORY}.git"
 BRANCH="gh_page"
@@ -32,18 +38,6 @@ if [ -n "${CNAME}" ]; then
 fi
 
 cd ./public
-
-
-echo 'variable'
-echo $CNAME
-echo $GITHUB_ACTOR
-echo "${GITHUB_ACTOR}"
-echo $REPOSITORY_PATH
-echo $BRANCH
-echo $INPUT_DEPLOY_KEY
-
-
-
 
 echo "Config git ..."
 
