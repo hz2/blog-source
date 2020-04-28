@@ -12,7 +12,7 @@ ssh-keyscan -t rsa github.com >> /root/.ssh/known_hosts
 
 
 REPOSITORY_PATH="git@github.com:${GITHUB_REPOSITORY}.git"
-BRANCH="gh_page"
+BRANCH="gh-pages"
 
 # deployment
 # if [ "$INPUT_COMMIT_MSG" == "" ]
