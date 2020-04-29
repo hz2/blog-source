@@ -27,8 +27,8 @@ categories: 教程
 用 `:target` 实现需要添加多个锚链接。后下面的多个 `:target` 实例都差不多。
 
 效果演示：
-- [:focus 实现](//hcw.github.io/demo/csslightbox/demo-focus.html) 
-- [:target 实现](//hcw.github.io/demo/csslightbox/demo-target.html)
+- [:focus 实现](https://h2.work/demo/csslightbox/demo-focus.html) 
+- [:target 实现](https://h2.work/demo/csslightbox/demo-target.html)
 
 
 `:focus` 实现的缺点：

@@ -6,16 +6,15 @@ categories: 文档
 ---
 
 「黑白」( Black & White ) 是一款原创的 hexo 博客主题。
-可以在 [<i class="hx-github"></i>github](https://github.com/hcw/bw-theme-hexo)上查看。
+可以在 [<i class="hx-github"></i>github](https://github.com/hz2/plain-theme)上查看。
 
 <!--more-->
 
 主题特点：
 - 简单纯粹，无复杂配色，只有黑白灰；
-- 整合 网易云跟帖，重写样式；
 - 为阅读而生，把干扰阅读的元素都放在菜单里隐藏；
 - 内嵌 SVG 图标，支持无限缩放；
-- 整合 湖心字库，查看 [<i class="hx-hxalpha"></i>Demo](https://hcw.github.io/hxfont/demo.html)
+- 整合 湖心字库，查看 [<i class="hx-hxalpha"></i>Demo](https://h2.work/hxfont/demo.html)
 - 移动端优化（TODO）
 
 ---

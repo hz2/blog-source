@@ -23,17 +23,17 @@ curl -i https://git.io/abc123
 ```
 
 举例：
-将 `https://github.com/hcw/hx-font` 缩短为 `hxfont`
+将 `https://github.com/hz2/hx-font` 缩短为 `hxfont`
 
 ```
-curl -i https://git.io -F "url=https://github.com/hcw/hx-font" -F "code=hx-font"
+curl -i https://git.io -F "url=https://github.com/hz2/hx-font" -F "code=hx-font"
 curl -i https://git.io/hx-font
 ```
 举例：
-将 `https://hcw.github.io/home` 缩短为 `hcw`
+将 `https://hz2.github.io/home` 缩短为 `hz2`
 
 ```
-curl -i https://git.io -F "url=https://hcw.github.io/home" -F "code=hcw"
-curl -i https://git.io/hcw
+curl -i https://git.io -F "url=https://hz2.github.io/home" -F "code=hz2"
+curl -i https://git.io/hz2
 ```
 <完>

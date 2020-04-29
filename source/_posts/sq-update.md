@@ -9,8 +9,8 @@ categories: [废话,文档]
 
 湖心主页是一个简单的上网导航书签页。
 
-下载地址：[<i class="hx-github"></i> Github](https://github.com/hcw/home) 
-主页地址：[<i class="hx-home"></i> https://hcw.github.io/home/sq/](https://hcw.github.io/home/sq/)
+下载地址：[<i class="hx-github"></i> Github](https://github.com/hz2/page) 
+主页地址：[<i class="hx-home"></i> https://h2.work/sq/](https://h2.work/sq/)
 
 <!--more-->
 
