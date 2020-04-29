@@ -26,6 +26,8 @@ jobs:
         key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
           ${{ runner.os }}-node-
+    - name: ========> Update Submodule
+      run: git submodule update --recursive --remote --merge --force
     - name: ========> Install Dependencies
       if: steps.cache.outputs.cache-hit != 'true'
       run: npm install
