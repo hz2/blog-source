@@ -1,5 +1,6 @@
 title: 「黑白」主题
 date: 2017/06/10 0:0:0
+updated: 2020/06/04 23:04:20 
 comments: true
 tags: [hexo,主题,CSS]
 categories: 文档
@@ -15,7 +16,7 @@ categories: 文档
 - 为阅读而生，把干扰阅读的元素都放在菜单里隐藏；
 - 内嵌 SVG 图标，支持无限缩放；
 - 整合 湖心字库，查看 [<i class="hx-hxalpha"></i>Demo](https://h2.work/hxfont/demo.html)
-- 移动端优化（TODO）
+- 移动端优化
 
 ---
 有序列表：
