@@ -6,7 +6,7 @@ tags: [hexo,主题,CSS]
 categories: 文档
 ---
 
-「黑白」( Black & White ) 是一款原创的 hexo 博客主题。
+「黑白」( plain ) 是一款 hexo 博客主题。
 可以在 [<i class="hx-github"></i>github](https://github.com/hz2/plain-theme)上查看。
 
 <!--more-->
