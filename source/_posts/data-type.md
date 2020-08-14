@@ -112,7 +112,9 @@ JSON.parse("{\"a\":1,\"b\":2}")
 
 ## 对象 - 数组
 
-- `Object.entries()` 和 `Object.fromEntries()` 一对相对的方法，可以在 `Object` 和 固定格式的数组 之间相互转换。
+可以使用 `Object` 的内置方法在对象和固定格式的数组之间相互转换。
+
+- `Object.entries()` 和 `Object.fromEntries()` 一对相对的方法：
 
 ```
 Object.entries( { a: 1, b: 2 } )
