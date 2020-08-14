@@ -44,8 +44,10 @@ null && 5 // null
 ```
 let lang = navigator.languages 
 // lang = ["zh-CN", "zh", "en"]
+
 Boolean(lang.indexOf("zh") + 1 || lang.indexOf("zh-CN") + 1 )
 // true
+
 // 判断以下的情况：
 lang = ["zh-CN", "en"] // true
 lang = ["zh", "en"] // true
@@ -59,8 +61,10 @@ indexOf 函数本来是判断数组和字符串中元素的索引位置，存在
 ```
 // 用 indexOf 不等于 -1 判断存在
 ( lang.indexOf("zh-CN") !== -1 ) || ( lang.indexOf("zh") !== -1 ) === true
+
 // 即为 加 1 不等于 0
 ( lang.indexOf("zh-CN") + 1 !== 0 ) || ( lang.indexOf("zh") + 1 !== 0 ) === true
+
 // 即为 加 1 为真
 ( lang.indexOf("zh-CN") + 1 == true ) || ( lang.indexOf("zh") + 1 == true ) === true
 ```

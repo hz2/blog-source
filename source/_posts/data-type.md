@@ -13,7 +13,7 @@ categories: 笔记
 <!--more-->
 
 
-<svg width="800" height="800" version="1.1" viewBox="0 0 211.67 211.67" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="800" version="1.1" viewBox="0 0 211.67 211.67" xmlns="http://www.w3.org/2000/svg" style="width: 80%;height: 80%;">
  <g transform="translate(0 -85.333)">
  <g fill="#23aaff" stroke="#0c6aa0" stroke-linecap="square" stroke-linejoin="round" stroke-width="1">
   <circle cx="105.17" cy="161.23" r="20.773"/>
@@ -56,8 +56,8 @@ categories: 笔记
    <text><tspan x="159.73129" y="253.08182">字符串</tspan><tspan x="159.73129" y="262.7832">String</tspan></text>
   </g>
   <g fill="#444" font-size="5.6px">
-   <text><tspan x="92" y="273">str.split("")</tspan></text>
-   <text><tspan x="92" y="240">arr.join()</tspan></text>
+   <text><tspan x="92" y="273">str.split('')</tspan></text>
+   <text><tspan x="92" y="240">arr.join('')</tspan></text>
    <text><tspan x="152" y="183">JSON.parse(str)</tspan></text>
    <text><tspan x="150" y="216">JSON.stringify(obj)</tspan></text>
    <text><tspan x="11" y="200">Object.fromEntries(arr)</tspan></text>
@@ -112,17 +112,17 @@ JSON.parse("{\"a\":1,\"b\":2}")
 
 ## 对象 - 数组
 
-对象上有一对相对的方法，可以在 `Object` 和 固定格式的数组 之间相互转换。
+- `Object.entries()` 和 `Object.fromEntries()` 一对相对的方法，可以在 `Object` 和 固定格式的数组 之间相互转换。
 
 ```
-// obj to arr
 Object.entries( { a: 1, b: 2 } )
 // [ [ "a", 1 ] , [ "b", 2 ] ]
+
 Object.fromEntries( [ [ "a", 1 ] , [ "b", 2 ] ] )
 //  { a: 1, b: 2 }
 ```
 
-对象到数组的单向转换：
+- 对象到数组的单向转换：
 ```
 // 只取键名
 Object.keys(( { a: 1, b: 2 } ))
@@ -132,7 +132,7 @@ Object.keys(( { a: 1, b: 2 } ))
 Object.values(( { a: 1, b: 2 } ))
 // [ 1, 2 ]
 ```
-数组到对象的单向转换：
+- 数组到对象的单向转换：
 ```
 // 以 index 为键名
 Object.assign( {} , [ 'a', 'b' ] )
