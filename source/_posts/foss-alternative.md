@@ -22,6 +22,7 @@ categories: 资源
 | [Google Chrome][chrome] | [google.cn][chrome1] | [chromium][chromium] | [taobao][chromium1] [huaweicloud][chromium2] |
 | **开发** |
 | | | [Atom][atom] | [huaweicloud][atom1] |
+| | | [Electron][electron] | [taobao][electron1] [huaweicloud][electron2] |
 | [Visual Studio Code][vscode] | -- | [VSCodium][vscodium] | [tsinghua][vscodium1] |
 | **办公** |
 | | | [LibreOffice][libreoffice] | [tencent][libreoffice1] [bjtu][libreoffice2] [ustc][libreoffice3] |
@@ -72,6 +73,12 @@ categories: 资源
 [atom1]:https://mirrors.huaweicloud.com/atom/
 [vscodium]:https://github.com/VSCodium/vscodium/releases
 [vscodium1]:https://mirrors.tuna.tsinghua.edu.cn/github-release/VSCodium/vscodium/
+
+
+[electron]:https://www.electronjs.org/
+[electron1]:https://npm.taobao.org/mirrors/electron
+[electron2]:https://mirrors.huaweicloud.com/electron/
+
 
 [libreoffice]:https://zh-cn.libreoffice.org/
 [libreoffice1]:https://mirrors.cloud.tencent.com/libreoffice/libreoffice/stable/
