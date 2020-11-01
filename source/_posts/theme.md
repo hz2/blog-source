@@ -29,18 +29,62 @@ categories: 文档
 下面是组件测试：
 
 *斜体* **粗体** ~~删除~~ `行内代码`<sup>上标</sup><sub>下标</sub><mark>高亮</mark>
-```
+
+
+## Task Lists {#custom-id}
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+## emoji
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
+
+
+## Definition Lists
+
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
+
+
+## Footnotes
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
+
+
+```javascript
 var button = document.querySelector('button');
-# 中文测试
+// 中文测试
 button.onclick = function() {
   var name = prompt('What is your name?');
   alert('Hello ' + name + ', nice to see you!');
 }
 ```
-|表格|表格|表格|
-|--- |---|---|
-|项目|项目|项目|
-|项目|项目|项目|
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
 > 独龙子犹氏所辑《喻世》等诸言。颇存雅道，时著良规．一破令时陋习。而宋元旧种，亦被搜括殆尽。肆中人见其行世颇捷，意余当别有秘本，图出而衡之。不知一二遗者，皆其沟中之断芜。略不足陈已。因取古今来杂碎事可新听睹、佐谈谐者，演而畅之，得若干卷。其事之真与饰，名之实与赝，各参半。文不足征．意殊有属。凡耳目前怪怪奇奇，当亦无所不有，总以言之者无罪，闻之者足以为戒，则可谓云尔已矣。若谓此非今小史家所奇，则是舍吐丝蚕而问粪金牛，吾恶乎从罔象索之？
 
 图片：

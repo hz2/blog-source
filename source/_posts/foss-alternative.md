@@ -29,11 +29,16 @@ categories: 资源
 | **图形** |
 | | | [GIMP][gimp] | [ustc][gimp1] |
 | | | [Inkscape][inkscape] | -- |
+| | | [Krita][krita] | [weiyun][krita2] |
 | **字体** |
 | | | [思源黑体][source-han-sans] | [tsinghua][source-han-sans1] [tencent][source-han-sans2] |
 | | | [思源宋体][source-han-serif] | [tsinghua][source-han-serif1] [tencent][source-han-serif2] |
 | | | [Source Code Pro][source-code-pro] | [tencent][source-code-pro1] |
 
+
+
+[krita]:https://krita.org/zh
+[krita2]:https://share.weiyun.com/uHKk36c3
 
 [source-han-sans]:https://github.com/adobe-fonts/source-han-sans/tree/release/SubsetOTF
 [source-han-sans1]:https://mirrors.tuna.tsinghua.edu.cn/adobe-fonts/source-han-sans/SubsetOTF/
