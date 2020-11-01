@@ -24,6 +24,7 @@ categories: 资源
 | | | [Atom][atom] | [huaweicloud][atom1] |
 | | | [Electron][electron] | [taobao][electron1] [huaweicloud][electron2] |
 | [Visual Studio Code][vscode] | -- | [VSCodium][vscodium] | [tsinghua][vscodium1] |
+| | | Code - OSS | -- |
 | **办公** |
 | | | [LibreOffice][libreoffice] | [tencent][libreoffice1] [bjtu][libreoffice2] [ustc][libreoffice3] |
 | **图形** |
