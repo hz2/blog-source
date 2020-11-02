@@ -23,4 +23,4 @@ Windows 上即使安装 inkscape、AI、CorelDraw 等，都无法实现直接在
 - [<i class="hx-download"></i> 64位](https://svgextension.codeplex.com/downloads/get/803086)
 
 ### 最终效果：
-{% fancybox /blog/images/svgexplorer.png svgexplorer.png svgexplorer %}
+![svgexplorer](/images/svgexplorer.png)

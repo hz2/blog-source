@@ -26,7 +26,7 @@ data:image/svg+xml;base64,
 
 直到看到火狐自己的网站，[Firefox 附加组件](https://addons.mozilla.org/zh-CN/android/) 最近改版，开始使用这种方法。
 
-{% fancybox /blog/images/bgsvg.png 火狐自己的用法 %}
+![火狐自己的用法](/images/bgsvg.png)
 
 直接把文本贴在 Data URL 后面，看的出来，里边只是把 svg/xml 文本经过网址编码转义一下：
 - `<` 变成 `%3C`
