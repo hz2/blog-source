@@ -31,7 +31,7 @@ categories: 文档
 *斜体* **粗体** ~~删除~~ `行内代码`<sup>上标</sup><sub>下标</sub><mark>高亮</mark>
 
 
-## Task Lists {#custom-id}
+## Task Lists
 
 - [x] Write the press release
 - [ ] Update the website
