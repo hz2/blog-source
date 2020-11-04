@@ -28,8 +28,7 @@ categories: 资源
 | | | [Kate][kate] | -- |
 | | | [Bluefish][bluefish] | -- |
 | | | [CudaText][cudatext] | -- |
-
-
+| | | [SynWrite][synwrite] | -- |
 | **办公** |
 | | | [LibreOffice][libreoffice] | [tencent][libreoffice1] [bjtu][libreoffice2] [ustc][libreoffice3] |
 | **图形** |
@@ -52,6 +51,7 @@ categories: 资源
 [kate]:https://kate-editor.org/
 [bluefish]:http://bluefish.openoffice.nl
 [cudatext]:http://uvviewsoft.com/cudatext/
+[synwrite]:http://uvviewsoft.com/synwrite/
 
 [source-han-sans]:https://github.com/adobe-fonts/source-han-sans/tree/release/SubsetOTF
 [source-han-sans1]:https://mirrors.tuna.tsinghua.edu.cn/adobe-fonts/source-han-sans/SubsetOTF/
