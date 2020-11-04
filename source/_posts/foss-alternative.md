@@ -25,6 +25,8 @@ categories: 资源
 | | | [Electron][electron] | [taobao][electron1] [huaweicloud][electron2] |
 | [Visual Studio Code][vscode] | -- | [VSCodium][vscodium] | [tsinghua][vscodium1] |
 | | | Code - OSS | -- |
+| | | [Kate][kate] | -- |
+| | | [Bluefish][bluefish] | -- |
 | **办公** |
 | | | [LibreOffice][libreoffice] | [tencent][libreoffice1] [bjtu][libreoffice2] [ustc][libreoffice3] |
 | **图形** |
@@ -38,8 +40,14 @@ categories: 资源
 
 
 
+[ms]:https://www.microsoft.com/zh-cn/windows/get-windows-10
+
+
 [krita]:https://krita.org/zh
 [krita2]:https://share.weiyun.com/uHKk36c3
+
+[kate]:https://kate-editor.org/
+[bluefish]:http://bluefish.openoffice.nl
 
 [source-han-sans]:https://github.com/adobe-fonts/source-han-sans/tree/release/SubsetOTF
 [source-han-sans1]:https://mirrors.tuna.tsinghua.edu.cn/adobe-fonts/source-han-sans/SubsetOTF/
@@ -49,11 +57,6 @@ categories: 资源
 [source-han-serif2]:https://mirrors.cloud.tencent.com/adobe-fonts/source-han-serif/SubsetOTF/
 [source-code-pro]:https://adobe-fonts.github.io/source-code-pro/
 [source-code-pro1]:https://mirrors.cloud.tencent.com/adobe-fonts/source-code-pro/
-
-
-参考资料：
-
-[ms]:https://www.microsoft.com/zh-cn/windows/get-windows-10
 
 
 [miui]:https://www.miui.com/download.html
