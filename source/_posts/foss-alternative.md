@@ -17,7 +17,7 @@ categories: 资源
 | **操作系统** |
 | [Microsoft Windows][ms] | -- | [Debian][debian] | [tsinghua][debian1] [ustc][debian2] |
 | | | [manjaro][manjaro] | [tsinghua][manjaro1] [ustc][manjaro2] |
-| [小米MIUI][miui] | -- | [LineageOS][lineage] | [ustc][lineage1] |
+| [小米MIUI][miui] | -- | [LineageOS][lineage] | [ustc][lineage1] [nju][lineage2] [tsinghua][lineage3] |
 | **网络** |
 | [Google Chrome][chrome] | [google.cn][chrome1] | [chromium][chromium] | [taobao][chromium1] [huaweicloud][chromium2] |
 | **开发** |
@@ -32,13 +32,14 @@ categories: 资源
 | **办公** |
 | | | [LibreOffice][libreoffice] | [tencent][libreoffice1] [bjtu][libreoffice2] [ustc][libreoffice3] |
 | **图形** |
-| | | [GIMP][gimp] | [ustc][gimp1] |
+| | | [GIMP][gimp] | [ustc][gimp1] [nju][gimp2] |
 | | | [Inkscape][inkscape] | -- |
-| | | [Krita][krita] | [weiyun][krita2] |
+| | | [Krita][krita] | [weiyun][krita1] [ustc][krita2] |
+| | | [digikam][digikam] | [ustc][digikam1] [nju][digikam2] |
 | **字体** |
 | | | [思源黑体][source-han-sans] | [tsinghua][source-han-sans1] [tencent][source-han-sans2] |
 | | | [思源宋体][source-han-serif] | [tsinghua][source-han-serif1] [tencent][source-han-serif2] |
-| | | [Source Code Pro][source-code-pro] | [tencent][source-code-pro1] |
+| | | [Source Code Pro][source-code-pro] | [tsinghua][source-code-pro1] [tencent][source-code-pro2] |
 
 
 
@@ -46,7 +47,11 @@ categories: 资源
 
 
 [krita]:https://krita.org/zh
-[krita2]:https://share.weiyun.com/uHKk36c3
+[krita1]:https://share.weiyun.com/uHKk36c3
+[krita2]:http://mirrors.ustc.edu.cn/kde-application/krita/
+[digikam]:https://www.digikam.org/
+[digikam1]:http://mirrors.ustc.edu.cn/kde-application/digikam/
+[digikam2]:http://mirrors.nju.edu.cn/kde-application/digikam/
 
 [kate]:https://kate-editor.org/
 [bluefish]:http://bluefish.openoffice.nl
@@ -60,12 +65,15 @@ categories: 资源
 [source-han-serif1]:https://mirrors.tuna.tsinghua.edu.cn/adobe-fonts/source-han-serif/SubsetOTF/
 [source-han-serif2]:https://mirrors.cloud.tencent.com/adobe-fonts/source-han-serif/SubsetOTF/
 [source-code-pro]:https://adobe-fonts.github.io/source-code-pro/
-[source-code-pro1]:https://mirrors.cloud.tencent.com/adobe-fonts/source-code-pro/
+[source-code-pro1]:https://mirrors.tuna.tsinghua.edu.cn/adobe-fonts/source-code-pro/
+[source-code-pro2]:https://mirrors.cloud.tencent.com/adobe-fonts/source-code-pro/
 
 
 [miui]:https://www.miui.com/download.html
 [lineage]:https://download.lineageos.org/
 [lineage1]:http://mirrors.ustc.edu.cn/lineageos/
+[lineage2]:http://mirrors.nju.edu.cn/lineageos/
+[lineage3]:https://mirrors.tuna.tsinghua.edu.cn/lineage-rom/
 
 [debian]:https://www.debian.org/distrib/
 [debian1]:https://mirrors.tuna.tsinghua.edu.cn/debian-cd/
@@ -101,7 +109,16 @@ categories: 资源
 [inkscape]:https://inkscape.org/release
 [gimp]:https://www.gimp.org/downloads/
 [gimp1]:http://mirrors.ustc.edu.cn/gimp/
-[gimp2]:http://mirrors.ustc.edu.cn/gimp/
-
+[gimp2]:http://mirrors.nju.edu.cn/gimp/
 
 [foss]: https://zh.wikipedia.org/zh-cn/%E8%87%AA%E7%94%B1%E5%8F%8A%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81%E8%BD%AF%E4%BB%B6
+
+
+
+其他软件列表：
+- [GNU 软件](https://www.gnu.org/software/software.html)
+- [GNOME applications](https://wiki.gnome.org/Apps)
+- [KDE's Applications](https://apps.kde.org)
+
+- [OSDN](https://osdn.net/)
+- [Free/Open Source Photography](https://pixls.us/software/)

@@ -29,7 +29,7 @@ categories: 资源
     - [清华](https://mirror.tuna.tsinghua.edu.cn/)
     - [中科大](http://mirrors.ustc.edu.cn/)
     - [浙大](http://mirrors.zju.edu.cn/)
-    - [北交大](http://mirror.bjtu.edu.cn/cn/)
+    - [南京大学](http://mirrors.nju.edu.cn/)
 
 3. 仓库镜像
     - [腾讯云](https://cloud.tencent.com/document/product/213/8623) (`pip`,`Maven`,`NPM`,`Docker`,`Rubygems`)
