@@ -12,34 +12,30 @@ categories: 资源
 <!--more-->
 
 
-| 名称 | 镜像下载 | 替代 | 镜像下载 |
-| -- | -- | -- | -- |
-| **操作系统** |
-| [Microsoft Windows][ms] | -- | [Debian][debian] | [tsinghua][debian1] [ustc][debian2] |
-| | | [manjaro][manjaro] | [tsinghua][manjaro1] [ustc][manjaro2] |
-| [小米MIUI][miui] | -- | [LineageOS][lineage] | [ustc][lineage1] [nju][lineage2] [tsinghua][lineage3] |
-| **网络** |
-| [Google Chrome][chrome] | [google.cn][chrome1] | [chromium][chromium] | [taobao][chromium1] [huaweicloud][chromium2] |
-| **开发** |
-| | | [Atom][atom] | [huaweicloud][atom1] |
-| | | [Electron][electron] | [taobao][electron1] [huaweicloud][electron2] |
-| [Visual Studio Code][vscode] | -- | [VSCodium][vscodium] | [tsinghua][vscodium1] |
-| | | Code - OSS | -- |
-| | | [Kate][kate] | -- |
-| | | [Bluefish][bluefish] | -- |
-| | | [CudaText][cudatext] | -- |
-| | | [SynWrite][synwrite] | -- |
-| **办公** |
-| | | [LibreOffice][libreoffice] | [tencent][libreoffice1] [bjtu][libreoffice2] [ustc][libreoffice3] |
-| **图形** |
-| | | [GIMP][gimp] | [ustc][gimp1] [nju][gimp2] |
-| | | [Inkscape][inkscape] | -- |
-| | | [Krita][krita] | [weiyun][krita1] [ustc][krita2] |
-| | | [digikam][digikam] | [ustc][digikam1] [nju][digikam2] |
-| **字体** |
-| | | [思源黑体][source-han-sans] | [tsinghua][source-han-sans1] [tencent][source-han-sans2] |
-| | | [思源宋体][source-han-serif] | [tsinghua][source-han-serif1] [tencent][source-han-serif2] |
-| | | [Source Code Pro][source-code-pro] | [tsinghua][source-code-pro1] [tencent][source-code-pro2] |
+| 分类 | 子分类 | 名称 | 替代 | 镜像下载 |
+| -- | -- | -- | -- | -- |
+| 操作系统 | 桌面 | [Microsoft Windows][ms] | [Debian][debian] | [tsinghua][debian1] [ustc][debian2] |
+|  | | | [manjaro][manjaro] | [tsinghua][manjaro1] [ustc][manjaro2] |
+|  | 移动 | -- | [LineageOS][lineage] | [ustc][lineage1] [nju][lineage2] [tsinghua][lineage3] |
+| 互联网 | 浏览器| [Google Chrome][chrome] [google.cn][chrome1]  | [chromium][chromium] | [taobao][chromium1] [huaweicloud][chromium2] |
+| 编程 | 编辑器 | [Visual Studio Code][vscode] | [VSCodium][vscodium] | [tsinghua][vscodium1] |
+|  | | | Code - OSS | -- |
+|  | | | [Atom][atom] | [huaweicloud][atom1] |
+|  | | | [Electron][electron] | [taobao][electron1] [huaweicloud][electron2] |
+|  | 文本 | | [Kate][kate] | -- |
+|  | | | [Bluefish][bluefish] | -- |
+|  | | | [CudaText][cudatext] | -- |
+|  | | | [SynWrite][synwrite] | -- |
+| 办公 | | | [LibreOffice][libreoffice] | [tencent][libreoffice1] [bjtu][libreoffice2] [ustc][libreoffice3] |
+| 图形 | 位图 | | [GIMP][gimp] | [ustc][gimp1] [nju][gimp2] |
+|  | | | [Krita][krita] | [weiyun][krita1] [ustc][krita2] |
+|  | 矢量 | | [Inkscape][inkscape] | -- |
+|  | 后期 | | [RawTherapee][rawtherapee] | -- |
+|  |  | | [darktable][darktable] | -- |
+|  | 管理 | | [digikam][digikam] | [ustc][digikam1] [nju][digikam2] |
+| 字体 |  | | [思源黑体][source-han-sans] | [tsinghua][source-han-sans1] [tencent][source-han-sans2] |
+|  | | | [思源宋体][source-han-serif] | [tsinghua][source-han-serif1] [tencent][source-han-serif2] |
+|  | | | [Source Code Pro][source-code-pro] | [tsinghua][source-code-pro1] [tencent][source-code-pro2] |
 
 
 
@@ -52,6 +48,8 @@ categories: 资源
 [digikam]:https://www.digikam.org/
 [digikam1]:http://mirrors.ustc.edu.cn/kde-application/digikam/
 [digikam2]:http://mirrors.nju.edu.cn/kde-application/digikam/
+[rawtherapee]:http://rawtherapee.com/
+[darktable]:https://www.darktable.org/
 
 [kate]:https://kate-editor.org/
 [bluefish]:http://bluefish.openoffice.nl
