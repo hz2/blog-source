@@ -93,8 +93,7 @@ categories: 资源
 [atom]:https://atom.io/
 [atom1]:https://mirrors.huaweicloud.com/atom/
 [vscodium]:https://github.com/VSCodium/vscodium/releases
-[vscodium1]:https://mirrors.tuna.tsinghua.edu.cn/github-release/VSCodium/vscodium/
-
+[vscodium1]:https://mirrors.tuna.tsinghua.edu.cn/github-release/VSCodium/vscodium/LatestRelease/
 
 [electron]:https://www.electronjs.org/
 [electron1]:https://npm.taobao.org/mirrors/electron

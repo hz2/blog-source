@@ -10,15 +10,15 @@ categories: 资源
 <!--more-->
 
 1. 代码托管平台
-    - [码云gitee](https://gitee.com/)
-    - [阿里云](https://code.aliyun.com/)
-    - [腾讯工蜂](https://code.tencent.com/)
-    - [腾讯coding](https://coding.net/)
-    - [微信代码管理](https://git.weixin.qq.com/)
-
     - [github](https://github.com/)
     - [gitlab](https://gitlab.com/)
     - [Bitbucket](https://bitbucket.org/)
+
+    - [码云gitee](https://gitee.com/)
+    - ~~[阿里云](https://codeup.aliyun.com/)~~
+    - ~~[腾讯工蜂](https://code.tencent.com/)~~
+    - ~~[腾讯coding](https://coding.net/)~~
+    - ~~[微信代码管理](https://git.weixin.qq.com/)~~
 
 2. 操作系统镜像
     - [腾讯云](https://mirrors.tencent.com/)
