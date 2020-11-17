@@ -1,7 +1,7 @@
 ---
 title: 常用软件的开源替代
 date: 2020-10-15 14:31
-comments: true
+comments: false
 description: 使用自由及开放源代码软件代替专有和商业软件
 tags: [自由软件,开源软件]
 categories: 资源

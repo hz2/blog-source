@@ -1,6 +1,6 @@
 title: 在背景图直接使用 SVG
 date: 2017/06/20 0:0:0
-comments: true
+comments: false
 tags: [svg,CSS]
 categories: 文档
 ---

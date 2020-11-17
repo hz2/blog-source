@@ -1,7 +1,7 @@
 title: Shadowsocks 备忘
 date: 2015/5/29 07:53:30
 updated: 2016/1/27 22:53:30
-comments: true
+comments: false
 description: 备忘
 tags: [科学,备忘,梯子]
 categories: 废话

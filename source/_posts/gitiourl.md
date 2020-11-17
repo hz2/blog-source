@@ -1,7 +1,7 @@
 title: 使用 git.io
 date: 2016/10/30 13:27:06 
 updated: 2016/11/21 00:53:58
-comments: true
+comments: false
 description: 自定义 git.io 短网址域名
 tags: [Git,github,网址]
 categories: 教程

@@ -2,7 +2,7 @@
 title: 雪碧图
 updated: 2016-11-25 15:56:30
 date: 2016-11-25 15:56:30
-comments: true
+comments: false
 description: background-position 里边用百分比的奇葩问题。
 tags: [svg,Sprite,雪碧图]
 categories: 废话

@@ -1,7 +1,7 @@
 title: 伪类的奇技淫巧
 date: 2016/11/22 12:26:09
 updated: 2016/11/23 01:17:00
-comments: true
+comments: false
 description: CSS伪类的一些技巧
 tags: [CSS,伪类]
 categories: 教程

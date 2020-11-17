@@ -1,7 +1,7 @@
 title: 网站更新
 date: 2015/5/4 0:28:15 
 updated: 2015/5/4 0:28:20 
-comments: true
+comments: false
 description: 网站更新
 tags: [更新日志,网站,分享]
 categories: 废话
