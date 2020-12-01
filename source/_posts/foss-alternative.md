@@ -18,6 +18,8 @@ categories: 资源
 |  | | | [manjaro][manjaro] | [tsinghua][manjaro1] [ustc][manjaro2] |
 |  | 移动 | -- | [LineageOS][lineage] | [ustc][lineage1] [nju][lineage2] [tsinghua][lineage3] |
 | 互联网 | 浏览器| [Google Chrome][chrome] [google.cn][chrome1]  | [chromium][chromium] | [taobao][chromium1] [huaweicloud][chromium2] |
+| | | [Firefox][firefox]  | -- | -- |
+| | | [Microsoft Edge][edge]  | -- | -- |
 | 编程 | 编辑器 | [Visual Studio Code][vscode] | [VSCodium][vscodium] | [tsinghua][vscodium1] |
 |  | | | Code - OSS | -- |
 |  | | | [Atom][atom] | [huaweicloud][atom1] |
@@ -86,6 +88,9 @@ categories: 资源
 [chromium]:https://www.chromium.org/
 [chromium1]:https://npm.taobao.org/mirrors/chromium-browser-snapshots/
 [chromium2]:https://mirrors.huaweicloud.com/chromium-browser-snapshots/
+
+[firefox]:https://www.mozilla.org/zh-CN/firefox/browsers/
+[edge]:https://www.microsoftedgeinsider.com/zh-cn/download/
 
 [vscode]:https://code.visualstudio.com/
 [atom]:https://atom.io/
