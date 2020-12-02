@@ -46,3 +46,11 @@ categories: 资源
     - [golang](https://golang.google.cn/)
     - [angular](https://angular.cn/)
     - [chrome](https://www.google.cn/chrome/)
+
+
+
+## 常用命令:
+1. NPM
+```bash
+$ npm install -g cnpm --registry=https://registry.npm.taobao.org
+```
