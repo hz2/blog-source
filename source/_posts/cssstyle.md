@@ -1,3 +1,4 @@
+---
 title: 样式概览
 date: 2015/4/16 07:53:30
 updated: 2015/5/3 21:53:30
@@ -5,8 +6,6 @@ comments: false
 description: 索引页
 tags: [Stylish,样式,CSS]
 categories: 文档
-permalink: cssstyle
-alias: cssstyle/index.html
 ---
 
 
