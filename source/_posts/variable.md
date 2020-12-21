@@ -3,7 +3,7 @@ title: 变量声明
 date: 2017-07-09 00:00:00
 comments: false
 description: 声明变量 var let const 的区别
-tags: [js,变量,ES6,声明]
+tags: [JavaScript,变量,声明]
 categories: 笔记
 ---
 

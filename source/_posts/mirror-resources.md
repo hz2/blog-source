@@ -1,7 +1,7 @@
 title: 镜像和公共资源
 date: 2020/06/27 0:0:0
 comments: false
-tags: [code,git]
+tags: [code,Git]
 categories: 资源
 ---
 

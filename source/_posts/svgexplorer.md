@@ -2,7 +2,7 @@ title: SVG缩略图
 date: 2016-11-26 23:26:39
 comments: false
 description: SVG缩略图
-tags: [缩略图,svg,谷歌]
+tags: [缩略图,svg]
 categories: 废话
 ---
 

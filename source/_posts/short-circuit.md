@@ -3,7 +3,7 @@ title: 短路求值
 date: 2017-07-29 00:00:00
 comments: false
 description: 短路求值
-tags: [js,编程]
+tags: [JavaScript,编程]
 categories: 笔记
 ---
 
