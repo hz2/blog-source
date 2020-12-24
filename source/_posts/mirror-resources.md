@@ -54,9 +54,9 @@ categories: 资源
     - [Bitbucket](https://bitbucket.org/)
 
 2. 持续集成和静态托管
-    - [vercel.com](https://vercel.com/) ( 前 `now.sh`)
+    - [vercel.com](https://vercel.com/) ( 前 `now.sh` )
     - [netlify.com](https://www.netlify.com/)
-    - [forestry.io](https://forestry.io/) ( 免费 3个站点)
+    - [forestry.io](https://forestry.io/) ( 免费 3个站点 )
 
 
 
