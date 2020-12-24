@@ -9,11 +9,9 @@ categories: 资源
 
 <!--more-->
 
-1. 代码托管平台
-    - [github](https://github.com/)
-    - [gitlab](https://gitlab.com/)
-    - [Bitbucket](https://bitbucket.org/)
+## 国内镜像
 
+1. 代码托管平台
     - [码云gitee](https://gitee.com/)
     - ~~[阿里云](https://codeup.aliyun.com/)~~
     - ~~[腾讯工蜂](https://code.tencent.com/)~~
@@ -46,6 +44,19 @@ categories: 资源
     - [golang](https://golang.google.cn/)
     - [angular](https://angular.cn/)
     - [chrome](https://www.google.cn/chrome/)
+
+
+## 国外的服务
+
+1. 代码托管平台
+    - [github](https://github.com/)
+    - [gitlab](https://gitlab.com/)
+    - [Bitbucket](https://bitbucket.org/)
+
+2. 持续集成和静态托管
+    - [vercel.com](https://vercel.com/) ( 前 `now.sh`)
+    - [netlify.com](https://www.netlify.com/)
+    - [forestry.io](https://forestry.io/) ( 免费 3个站点)
 
 
 
