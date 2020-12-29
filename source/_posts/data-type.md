@@ -79,14 +79,14 @@ categories: 笔记
 学习 `JavaScript` 最基础的知识，拼接和分割字符串。
 
 - 拼接：
-```
+```js
 const arr = [1,'a',false]
 arr.join('')
 // "1afalse"
 ```
 
 - 分割
-```
+```js
 const str = 'abcd'
 str.split('')
 // [ "a", "b", "c", "d" ]
@@ -99,13 +99,13 @@ str.split('')
 
 
 - 序列化：
-```
+```js
 JSON.stringify({a:1,b:2})
 // "{\"a\":1,\"b\":2}"
 ```
 
 - 解析
-```
+```js
 JSON.parse("{\"a\":1,\"b\":2}")
 // { a: 1, b: 2 }
 ```
@@ -115,8 +115,7 @@ JSON.parse("{\"a\":1,\"b\":2}")
 可以使用 `Object` 的内置方法在对象和固定格式的数组之间相互转换。
 
 - `Object.entries()` 和 `Object.fromEntries()` 一对相对的方法：
-
-```
+```js
 Object.entries( { a: 1, b: 2 } )
 // [ [ "a", 1 ] , [ "b", 2 ] ]
 
@@ -125,7 +124,7 @@ Object.fromEntries( [ [ "a", 1 ] , [ "b", 2 ] ] )
 ```
 
 - 对象到数组的单向转换：
-```
+```js
 // 只取键名
 Object.keys(( { a: 1, b: 2 } ))
 // [ "a", "b" ]
@@ -135,7 +134,7 @@ Object.values(( { a: 1, b: 2 } ))
 // [ 1, 2 ]
 ```
 - 数组到对象的单向转换：
-```
+```js
 // 以 index 为键名
 Object.assign( {} , [ 'a', 'b' ] )
 // { 0: "a", 1: "b" }

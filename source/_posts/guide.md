@@ -57,7 +57,7 @@ categories: 文档
 - 官网下载如果被墙，请到百度网盘的备份下载。
 - 其他国产浏览器：（包含但不限于）<i class="hx-360se" style="font-size: 2em;color: #44d544;"></i>360安全浏览器 <i class="hx-360chrome" style="font-size: 2em;color: #d95de6;"></i>360极速浏览器 <i class="hx-qqb" style="font-size: 2em;color:#2d96ff;"></i>QQ浏览器 <i class="hx-sg" style="font-size: 2em;color: #549af0;"></i>搜狗浏览器 <i class="hx-bd" style="font-size: 2em;color: #1cadf0;"></i>百度浏览器 <i class="hx-uc" style="font-size: 2em;color: #e49e1e;"></i>UC浏览器 <i class="hx-cm" style="font-size: 2em;color: #e49e1e;"></i>猎豹浏览器 <i class="hx-tw" style="font-size: 2em;color: #6ea6df;"></i>世界之窗浏览器，直接下载`.crx` 格式的扩展 [<i class="hx-filetype" style="font-size: 2em;color: lightgreen;"></i><span style="color:#fff;margin:9px -33px;top:initial;position:absolute;font-size:13px">.crx</span>][7] ，拖放到浏览器地址栏或者扩展/附加组件/应用中心页面，点击安装即可。
 
-####2.2 科学打开样式站（可略过）
+#### 2.2 科学打开样式站（可略过）
 
 自备梯子者略过。**具体方法：**
 
@@ -103,7 +103,9 @@ sudo gedit /etc/hosts
 
 ## 4. 许可
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="hx-ccbyncsa hxl5" title="知识共享许可协议" style="margin-left:45%;font-size:1.5em;line-height:2.5em;"></i></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">湖心工坊及其作品</span> 由 huching 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。
+<a rel="license" style="font-size: 1.5em;" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="hx-ccbyncsa hxl5" style="margin: 45px;" title="知识共享许可协议"></i></a>
+
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">湖心工坊及其作品</span> 由 huching 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。
 
 
 你可以自由的：
@@ -129,16 +131,11 @@ sudo gedit /etc/hosts
 
 如果你十分宽裕并且乐意，不妨通过捐赠作者来帮助更多人获取优质的上网体验。
 
-#### 支付宝账户
-```
-huch_2009@hotmail.com
-```
-
 #### 支付宝钱包途径
 <i class="hx-alipay" style="font-size: 3em;color: #0080ff;" ></i>收款人：绅士
 <img src="/images/zhifu.jpg" alt="请用手机支付宝扫二维码" />
 
-如果方便的话可以联系 `huxx@Live.com` 提供昵称和金额在下方列出， 以示感谢。 
+如果方便的话可以加备注提供昵称在下方列出， 以示感谢。 
 
 | 昵称 | 金额 | 时间 | 备注 |
 | ---- | ---- | ---- | ---- |
