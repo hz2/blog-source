@@ -53,12 +53,19 @@ categories: 资源
     - [gitlab](https://gitlab.com/)
     - [Bitbucket](https://bitbucket.org/)
 
-2. 持续集成和静态托管
+2. 代码分享和演示
+    - [codepen](https://codepen.io/)
+    - [jsbin](https://jsbin.com/)
+    - [jsfiddle](https://jsfiddle.net/)
+    - [repl.it](https://repl.it/)
+    - [codesandbox](https://codesandbox.io/)
+
+3. 持续集成和静态托管
     - [vercel.com](https://vercel.com/) ( 前 `now.sh` )
     - [netlify.com](https://www.netlify.com/)
     - [forestry.io](https://forestry.io/) ( 免费 3个站点 )
 
-3. 其他资源集合
+4. 其他资源集合
     - [free-for.dev](https://free-for.dev/)
 
 
