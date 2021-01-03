@@ -58,6 +58,9 @@ categories: 资源
     - [netlify.com](https://www.netlify.com/)
     - [forestry.io](https://forestry.io/) ( 免费 3个站点 )
 
+3. 其他资源集合
+    - [free-for.dev](https://free-for.dev/)
+
 
 
 ## 常用命令:
