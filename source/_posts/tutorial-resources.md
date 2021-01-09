@@ -21,6 +21,7 @@ JavaScript 教程和资源。
 | Web Fundamentals | [developers.google.cn](https://developers.google.cn/web/) | 谷歌提供的参考文档 |
 | JavaScript 教程 | [wangdoc.com](https://wangdoc.com/javascript/) | 阮一峰的 JavaScript 教程 |
 | JavaScript 教程 | [liaoxuefeng.com](https://www.liaoxuefeng.com/wiki/1022910821149312) | 廖雪峰的 JavaScript 教程 |
+| 全栈公开课 | [fullstackopen.com](https://fullstackopen.com/zh/) | 深入浅出现代Web编程 |
 
 
 ## 社区和博客
