@@ -1,6 +1,6 @@
 ---
 title: web 打印指定的 DOM
-date: 2020-10-15 14:31
+date: 2021-02-06 17:3118
 comments: false
 description: web 上调用打印机打印指定的 DOM 节点内容
 tags: [web,JavaScript]
@@ -21,7 +21,7 @@ web 上调用打印机打印指定的 DOM 节点内容。
 
 感觉都不是很理想。从绘制 Canvas 的过程受到启发，想到可以用一个看不见的 `iframe` 绘制需要打印的内容。过程如下：
 
- 1. 准备一个看不见的盒子，用于绘制
+ 1. 准备一个的盒子，用于绘制
 
  ```html
  <iframe id="printwindow" :src="iframeSrc" frameborder="0"></iframe>
