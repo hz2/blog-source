@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2868" height="2490.7" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-125.06 1605.9)">
+  <path d="m1488.2-24.803v340.16h566.93v269.29h850.39v-524.41h-283.46v-85.039c0-1.2e-5 -1133.9-1.2e-5 -1133.9-1.2e-5z" fill="#ff8080" fill-opacity=".81154" stroke="#000" stroke-dasharray="24, 24"/>
+  <path d="m1771.7 868.11v-891.56-1305.3" fill="none" stroke="#f60" stroke-width="5"/>
+  <g fill="#ffe6d5" stroke="#000" stroke-dasharray="24, 24">
+   <path d="m1218.9-492.52h255.12v822.05h283.46v453.54h-538.58z"/>
+   <path d="m1785.8-492.52v425.2h255.12v-226.77h595.28v864.57h255.12v-1063z"/>
+   <rect x="1502.4" y="-10.63" width="255.12" height="311.81"/>
+   <rect x="1785.8" y="-10.63" width="255.12" height="198.43"/>
+  </g>
+  <rect x="1800" y="17.716" width="226.77" height="99.213" fill="#ff8080" stroke="#000"/>
+  <text x="1913.3859" y="-81.496353" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="1913.3859" y="-81.496353" font-style="oblique">共享状态</tspan></text>
+  <g fill="#ffe6d5" stroke="#000" stroke-dasharray="24, 24">
+   <rect x="2069.8" y="-208.56" width="254.62" height="750.68"/>
+   <rect x="935.43" y="-1130.3" width="255.12" height="1303.9"/>
+   <rect x="368.5" y="-492.52" width="255.12" height="1006.3"/>
+  </g>
+  <g fill="#fff" stroke="#000">
+   <rect x="382.68" y="272.83" width="226.77" height="70.866"/>
+   <rect x="382.68" y="74.409" width="226.77" height="42.52"/>
+   <rect x="382.68" y="-95.67" width="226.77" height="42.52"/>
+   <rect x="949.61" y="-1116.1" width="226.77" height="42.52"/>
+   <rect x="949.61" y="-889.37" width="226.77" height="42.52"/>
+   <rect x="949.61" y="-662.6" width="226.77" height="42.52"/>
+   <rect x="2651.4" y="-463.17" width="226.77" height="42.52"/>
+   <rect x="2381.6" y="-208.56" width="226.77" height="42.52"/>
+   <rect x="2650.9" y="386.72" width="226.77" height="42.52"/>
+   <rect x="2650.9" y="89.082" width="226.77" height="42.52"/>
+   <rect x="2650.9" y="-208.56" width="226.77" height="42.52"/>
+   <rect x="2084" y="-180.21" width="226.77" height="42.52"/>
+   <rect x="2084" y="287.51" width="226.77" height="42.52"/>
+   <rect x="2084" y="18.216" width="226.77" height="42.52"/>
+   <rect x="1516" y="627.67" width="226.77" height="70.866"/>
+   <rect x="1516" y="358.37" width="226.77" height="70.866"/>
+   <rect x="1516.5" y="17.716" width="226.77" height="70.866"/>
+   <rect x="1517" y="-463.67" width="226.77" height="70.866"/>
+  </g>
+  <g fill="#ffd5d5" stroke="#000">
+   <rect x="382.68" y="343.7" width="226.77" height="99.213"/>
+   <rect x="382.68" y="116.93" width="226.77" height="99.213"/>
+   <rect x="382.68" y="-53.15" width="226.77" height="70.866"/>
+   <rect x="382.68" y="-223.23" width="226.77" height="70.866"/>
+   <rect x="382.68" y="-393.31" width="226.77" height="70.866"/>
+   <rect x="949.61" y="-95.67" width="226.77" height="99.213"/>
+   <rect x="1516" y="698.53" width="226.77" height="70.866"/>
+   <rect x="1516" y="500.11" width="226.77" height="70.866"/>
+   <rect x="1516" y="429.24" width="226.77" height="70.866"/>
+  </g>
+  <rect x="1516.5" y="187.79" width="226.77" height="70.866" fill="#ff8080" stroke="#000"/>
+  <rect x="1516.5" y="88.582" width="226.77" height="99.213" fill="#ff8080" stroke="#000"/>
+  <g fill="#ffd5d5" stroke="#000">
+   <rect x="1233.1" y="-279.92" width="226.77" height="99.213"/>
+   <rect x="1233.1" y="-379.13" width="226.77" height="99.213"/>
+   <rect x="1517" y="-392.81" width="226.77" height="99.213"/>
+   <rect x="949.61" y="-421.65" width="226.77" height="70.866"/>
+   <rect x="949.61" y="-620.08" width="226.77" height="70.866"/>
+   <rect x="949.61" y="-846.85" width="226.77" height="99.213"/>
+   <rect x="949.61" y="-1073.6" width="226.77" height="99.213"/>
+   <rect x="1800.5" y="-208.56" width="226.77" height="99.213"/>
+   <rect x="2084" y="-137.69" width="226.77" height="70.866"/>
+  </g>
+  <g fill="#ff8080" stroke="#000">
+   <rect x="2084" y="131.6" width="226.77" height="99.213"/>
+   <rect x="2084" y="60.736" width="226.77" height="70.866"/>
+   <rect x="2084" y="400.89" width="226.77" height="70.866"/>
+   <rect x="2084" y="330.03" width="226.77" height="70.866"/>
+   <rect x="2650.9" y="429.24" width="226.77" height="99.213"/>
+   <rect x="2650.9" y="230.81" width="226.77" height="99.213"/>
+   <rect x="2650.9" y="131.6" width="226.77" height="99.212"/>
+  </g>
+  <rect x="2650.9" y="-66.823" width="226.77" height="99.213" fill="#ffd5d5" stroke="#000"/>
+  <rect x="2650.9" y="-166.04" width="226.77" height="99.212" fill="#ffd5d5" stroke="#000"/>
+  <g fill="#000000" font-family="'DejaVu Sans'" font-size="20px" letter-spacing="0px" text-anchor="middle" word-spacing="0px">
+   <text x="496.13138" y="-350.87231" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="496.13138" y="-350.87231" font-size="20px">确定性逻辑编程</tspan></text>
+   <text x="496.06296" y="-194.88216" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="496.06296" y="-194.88216">相关性 &amp;</tspan><tspan x="496.06296" y="-169.37845">逻辑编程</tspan></text>
+   <text x="496.06296" y="-24.803421" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="496.06296" y="-24.803421">约束（ 逻辑 ）</tspan><tspan x="496.06296" y="0.70028889">编程</tspan></text>
+   <text x="495.98489" y="173.55667" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="495.98489" y="173.55667">并行约束编程</tspan></text>
+   <text x="496.00443" y="387.59601" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="496.00443" y="387.59601">延迟并行</tspan><tspan x="496.00443" y="413.09973">约束编程</tspan></text>
+   <text x="494.89966" y="487.42197" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="494.89966" y="487.42197" font-style="oblique">逻辑和约束</tspan></text>
+   <text x="1062.9531" y="-1029.8635" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1062.9531" y="-1029.8635">描述性</tspan><tspan x="1062.9531" y="-1004.3599">声明式编程</tspan></text>
+   <text x="1062.377" y="-803.1994" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1062.377" y="-803.1994">一阶</tspan><tspan x="1062.377" y="-777.69568">函数式编程</tspan></text>
+   <text x="1062.3768" y="-577.7124" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1062.3768" y="-577.7124">函数式编程</tspan></text>
+   <text x="1062.9141" y="-379.24811" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1062.9141" y="-379.24811">延续编程</tspan></text>
+   <text x="1346.3201" y="-335.12155" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1346.3201" y="-335.12155">单数据流</tspan><tspan x="1346.3201" y="-309.61783">编程</tspan></text>
+   <text x="1346.3787" y="-236.07491" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1346.3787" y="-236.07491">声明式</tspan><tspan x="1346.3787" y="-210.5712">并行编程</tspan></text>
+   <text x="1063.0214" y="-51.96949" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1063.0214" y="-51.96949">懒</tspan><tspan x="1063.0214" y="-26.46578">数据流编程</tspan></text>
+   <text x="1630.5189" y="-349.04865" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1630.5189" y="-349.04865">抽象数据类型</tspan><tspan x="1630.5189" y="-323.54492">函数式编程</tspan></text>
+   <text x="1629.7454" y="132.59505" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1629.7454" y="132.59505">非单数据流</tspan><tspan x="1629.7454" y="158.09875">编程</tspan></text>
+   <text x="1629.9213" y="217.51721" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1629.9213" y="217.51721">并行</tspan><tspan x="1629.9213" y="243.02092">逻辑编程</tspan></text>
+   <text x="1628.8939" y="458.93277" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1628.8939" y="458.93277">函数式</tspan><tspan x="1628.8939" y="484.43649">响应编程</tspan></text>
+   <text x="1629.9213" y="528.95233" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1629.9213" y="528.95233">弱同步</tspan><tspan x="1629.9213" y="554.45605">编程</tspan></text>
+   <text x="1629.4213" y="726.8775" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1629.4213" y="726.8775">强同步</tspan><tspan x="1629.4213" y="752.38123">编程</tspan></text>
+   <text x="1913.8175" y="-164.65994" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1913.8175" y="-164.65994">抽象数据流</tspan><tspan x="1913.8175" y="-139.15623">命令式编程</tspan></text>
+   <text x="1913.3859" y="46.062668" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1913.3859" y="46.062668">多代理</tspan><tspan x="1913.3859" y="71.566376">数据流</tspan><tspan x="1913.3859" y="97.070091">编程</tspan></text>
+   <text x="1913.3859" y="145.27519" font-style="oblique" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1913.3859" y="145.27519">数据流和</tspan><tspan x="1913.3859" y="170.7789">讯息传递</tspan></text>
+   <text x="2197.3503" y="-109.34285" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2197.3503" y="-109.34285">事件循环</tspan><tspan x="2197.3503" y="-83.839142">编程</tspan></text>
+   <text x="2197.3503" y="89.082382" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2197.3503" y="89.082382">多代理系统</tspan><tspan x="2197.3503" y="114.58609">编程</tspan></text>
+   <text x="2197.3406" y="175.4682" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2197.3406" y="175.4682">讯息传递</tspan><tspan x="2197.3406" y="200.97191">并行编程</tspan></text>
+   <text x="2197.3503" y="358.37378" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2197.3503" y="358.37378">活动对象</tspan><tspan x="2197.3503" y="383.8775">编程</tspan></text>
+   <text x="2197.3503" y="429.23987" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2197.3503" y="429.23987">对象容量</tspan><tspan x="2197.3503" y="454.74359">编程</tspan></text>
+   <text x="2197.3503" y="500.10596" font-style="oblique" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2197.3503" y="500.10596">数据流和</tspan><tspan x="2197.3503" y="525.60968">讯息传递</tspan></text>
+   <text x="2764.2795" y="556.79895" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2764.2795" y="556.79895" font-style="oblique">共享状态</tspan></text>
+   <text x="2764.2307" y="472.79843" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2764.2307" y="472.79843">软件事务性</tspan><tspan x="2764.2307" y="498.30215">内存 (STM)</tspan></text>
+   <text x="2764.2795" y="159.94847" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2764.2795" y="159.94847">并行</tspan><tspan x="2764.2795" y="185.45218">面向对象</tspan><tspan x="2764.2795" y="210.95589">编程</tspan></text>
+   <text x="2764.6311" y="274.73938" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2764.6311" y="274.73938">共享状态的</tspan><tspan x="2764.6311" y="300.2431">并行编程</tspan></text>
+   <text x="2764.2795" y="-137.68929" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2764.2795" y="-137.68929">顺序的</tspan><tspan x="2764.2795" y="-112.18558">面向对象</tspan><tspan x="2764.2795" y="-86.681862">编程</tspan></text>
+   <text x="2763.6646" y="-23.044867" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2763.6646" y="-23.044867">有状态的</tspan><tspan x="2763.6646" y="2.4588442">函数式编程</tspan></text>
+  </g>
+  <rect x="2651.4" y="-420.65" width="226.77" height="70.866" fill="#ffd5d5" stroke="#000"/>
+  <text x="2764.7603" y="-378.26764" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="2764.7603" y="-378.26764">命令式编程</tspan></text>
+  <rect x="2381.6" y="-166.04" width="226.77" height="99.213" fill="#ffd5d5" stroke="#000"/>
+  <g letter-spacing="0px" text-anchor="middle" word-spacing="0px">
+   <text x="2494.9685" y="-122.17932" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2494.9685" y="-122.17932">命令式</tspan><tspan x="2494.9685" y="-96.675613">搜索编程</tspan></text>
+   <text x="771.56854" y="-1257.8744" fill="#ff6600" font-family="'DejaVu Sans'" font-size="50px" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="771.56854" y="-1257.8744">未命名状态</tspan><tspan x="771.56854" y="-1224.2545"/><tspan x="771.56854" y="-1191.8938">( 顺序或并发 )</tspan></text>
+   <g font-family="DejaVu Sans" font-size="50px">
+    <text x="2338.5828" y="-1257.8744" fill="#ff6600" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2346.5417" y="-1257.8744" fill="#ff6600" font-size="50px">命名状态</tspan></text>
+    <text x="2698.877" y="-1417.0626" fill="#000000" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2698.877" y="-1417.0626">更加命令式的</tspan><tspan x="2698.877" y="-1354.5626">范例</tspan></text>
+    <text x="636.67224" y="-1424.1493" fill="#000000" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="636.67224" y="-1424.1493">更加声明式的</tspan><tspan x="636.67224" y="-1361.6493">范例</tspan></text>
+   </g>
+  </g>
+  <rect x="666.14" y="-393.31" width="226.77" height="99.213" fill="#ffd5d5" stroke="#000"/>
+  <text x="778.91229" y="-349.60721" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="778.91229" y="-349.60721">懒</tspan><tspan x="778.91229" y="-324.10349">函数式编程</tspan></text>
+  <rect x="949.61" y="3.543" width="226.77" height="127.56" fill="#ffd5d5" stroke="#000"/>
+  <g fill="#000000" font-size="20px" letter-spacing="0px" text-anchor="middle" word-spacing="0px">
+   <text x="1062.9139" y="48.752331" font-family="'DejaVu Sans'" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1062.9139" y="48.752331">懒</tspan><tspan x="1062.9139" y="74.256042">声明式</tspan><tspan x="1062.9139" y="99.75975">并行编程</tspan></text>
+   <text x="1062.9922" y="159.44865" font-family="'DejaVu Sans'" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1062.9922" y="159.44865" font-style="oblique" text-align="center" text-anchor="middle">函数式</tspan></text>
+   <g font-family="DejaVu Sans">
+    <text x="1062.9922" y="-1087.7955" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1062.9922" y="-1087.7955">记录</tspan></text>
+    <text x="1062.9922" y="-861.02393" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1062.9922" y="-861.02393">过程</tspan></text>
+    <text x="1062.9921" y="-634.25226" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1062.9921" y="-634.25226">闭包</tspan></text>
+   </g>
+   <g font-family="'DejaVu Sans'">
+    <text x="1629.0503" y="670.06116" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1629.0503" y="670.06116">瞬时计算</tspan></text>
+    <text x="1629.3627" y="388.04715" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1629.3627" y="388.04715">部分终止时</tspan><tspan x="1629.3627" y="413.55087">同步</tspan></text>
+    <text x="1629.8138" y="60.14151" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1629.8138" y="60.14151">非确定性选择</tspan></text>
+    <text x="1630.4213" y="-435.32709" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="1630.4213" y="-435.32709">命名 </tspan><tspan x="1630.4213" y="-409.82336">( 难忘的常数 )</tspan></text>
+    <text x="2197.3503" y="-151.8625" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2197.3503" y="-151.8625">端口 ( 通道 )</tspan></text>
+    <text x="2197.3503" y="46.562668" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2197.3503" y="46.562668">线程</tspan></text>
+    <text x="2197.3503" y="315.854" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2197.3503" y="315.854">局部细胞</tspan></text>
+    <text x="2764.2795" y="-180.20897" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2764.2795" y="-180.20897">闭包</tspan></text>
+    <text x="2764.2795" y="117.42882" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2764.2795" y="117.42882">线程</tspan></text>
+    <text x="2764.2795" y="415.06665" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2764.2795" y="415.06665">日志</tspan></text>
+    <text x="2499.0342" y="-179.18687" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2499.0342" y="-179.18687">搜索</tspan></text>
+    <text x="2764.7795" y="-434.82709" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="2764.7795" y="-434.82709">细胞 ( 状态 )</tspan></text>
+   </g>
+  </g>
+  <rect x="949.61" y="-464.17" width="226.77" height="42.52" fill="#fff" stroke="#000"/>
+  <text x="1062.9922" y="-435.82709" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="1062.9922" y="-435.82709">延续</tspan></text>
+  <rect x="1233.1" y="-464.17" width="226.77" height="42.52" fill="#fff" stroke="#000"/>
+  <text x="1346.4568" y="-435.82703" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="1346.4568" y="-435.82703">线程</tspan></text>
+  <rect x="1233.1" y="-421.65" width="226.77" height="42.52" fill="#fff" stroke="#000"/>
+  <text x="1346.4568" y="-393.30737" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="1346.4568" y="-393.30737">单赋值</tspan></text>
+  <rect x="666.14" y="-464.17" width="226.77" height="70.866" fill="#fff" stroke="#000"/>
+  <text x="779.66425" y="-421.77753" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="779.66425" y="-421.77753">按需同步</tspan></text>
+  <g stroke="#000">
+   <g stroke-width="3">
+    <path d="m1063-889.37-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m1063-662.6-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m1063-974.41v70.866" fill="none"/>
+    <path d="m1063-747.64v70.866" fill="none"/>
+   </g>
+   <rect x="382.68" y="-464.17" width="226.77" height="70.866" fill="#fff"/>
+  </g>
+  <text x="496.06305" y="-435.82709" fill="#000000" font-family="DejaVu Sans" font-size="20px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="496.06305" y="-435.82709">统一</tspan><tspan x="496.06305" y="-410.82709">( 平等 )</tspan></text>
+  <rect x="382.68" y="-265.75" width="226.77" height="42.52" fill="#fff" stroke="#000"/>
+  <g fill="#000000" font-size="20px" letter-spacing="0px" text-anchor="middle" word-spacing="0px">
+   <g font-family="DejaVu Sans">
+    <text x="496.06299" y="-237.40187" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="496.06299" y="-237.40187">搜索</tspan></text>
+    <text x="496.06296" y="-67.323135" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="496.06296" y="-67.323135">求解</tspan></text>
+    <text x="496.06296" y="102.75566" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="496.06296" y="102.75566">线程</tspan></text>
+   </g>
+   <text x="496.19974" y="315.23032" font-family="'DejaVu Sans'" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="496.19974" y="315.23032">按需同步</tspan></text>
+  </g>
+  <g fill="#fff" stroke="#000" stroke-width="3">
+   <path d="m496.06-265.75-14.173-14.173h28.346z"/>
+   <path d="m496.06-322.44v42.52"/>
+   <path d="m496.06-95.67-14.173-14.173h28.346z"/>
+   <path d="m496.06-152.36v42.52"/>
+   <path d="m496.06 74.409-14.173-14.173h28.346z"/>
+   <path d="m496.06 17.716v42.52"/>
+   <path d="m496.06 272.83-14.173-14.173h28.346z"/>
+  </g>
+  <g stroke="#000">
+   <g stroke-width="3">
+    <path d="m496.06 216.14v42.52" fill="none"/>
+    <path d="m496.06-464.17-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m496.06-478.35v-42.52h566.93" fill="none"/>
+    <path d="m1346.5-464.17-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m1346.5-478.35v-42.52h-283.46" fill="none"/>
+    <path d="m1063-464.17-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m1063-520.87v42.52" fill="none"/>
+    <path d="m779.53-464.17-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m779.53-520.87v42.52" fill="none"/>
+    <path d="m1063-95.67-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m1063-152.36v42.52" fill="none"/>
+    <path d="m1912.9 17.216-14.173-14.173h28.347z" fill="#fff"/>
+    <path d="m1913.4 3.543v-42.52l255.62 0.50001v-28.346" fill="none"/>
+    <path d="m1063-549.21v28.346" fill="none"/>
+   </g>
+   <path transform="translate(921.26 -1116.1)" d="m-134.65 595.28c0 3.9138-3.1728 7.0866-7.0866 7.0866-3.9138 0-7.0866-3.1728-7.0866-7.0866s3.1728-7.0866 7.0866-7.0866c3.9138 0 7.0866 3.1728 7.0866 7.0866z"/>
+   <path transform="translate(1204.7 -1116.1)" d="m-134.65 595.28c0 3.9138-3.1728 7.0866-7.0866 7.0866-3.9138 0-7.0866-3.1728-7.0866-7.0866s3.1728-7.0866 7.0866-7.0866c3.9138 0 7.0866 3.1728 7.0866 7.0866z"/>
+   <g stroke-width="3">
+    <path d="m2764.3 386.72-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m2764.3 330.03v42.52" fill="none"/>
+    <path d="m1913.9-208.56-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m1913.9-265.25v42.52" fill="none"/>
+    <path d="m2764.3 89.082-14.173-14.173h28.346z" fill="#fff"/>
+   </g>
+  </g>
+  <g fill="none" stroke="#000" stroke-width="3">
+   <path d="m2764.3 32.389v42.52"/>
+   <path d="m1630.4-293.59v28.346h283.46"/>
+   <path d="m1913.9-265.25v-56.693h793.7v-28.346"/>
+  </g>
+  <g stroke="#000">
+   <path transform="translate(2055.6 -860.52)" d="m-134.65 595.28c0 3.9138-3.1728 7.0866-7.0866 7.0866-3.9138 0-7.0866-3.1728-7.0866-7.0866s3.1728-7.0866 7.0866-7.0866c3.9138 0 7.0866 3.1728 7.0866 7.0866z"/>
+   <g stroke-width="3">
+    <path d="m1629.4 627.67-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m1629.4 570.97v42.52" fill="none"/>
+    <path d="m1629.9 357.87-14.173-14.173h28.346z" fill="#fff"/>
+   </g>
+  </g>
+  <g fill="none" stroke="#000" stroke-width="3">
+   <path d="m1629.9 301.18v42.52"/>
+   <path d="m1318.1-180.71v28.346h-255.12"/>
+   <path d="m779.53-294.09v141.73h283.46"/>
+  </g>
+  <g stroke="#000">
+   <path transform="translate(1204.7 -747.64)" d="m-134.65 595.28c0 3.9138-3.1728 7.0866-7.0866 7.0866-3.9138 0-7.0866-3.1728-7.0866-7.0866s3.1728-7.0866 7.0866-7.0866c3.9138 0 7.0866 3.1728 7.0866 7.0866z"/>
+   <g stroke-width="3">
+    <path d="m2196.9 17.716-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m2196.9-67.323v70.866" fill="none"/>
+    <path d="m2197.4 287.51-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m2197.4 230.81v42.52" fill="none"/>
+    <path d="m2495-208.56-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m2495-222.73v-42.52l269.29-1e-5v-85.039" fill="none"/>
+    <path d="m2764.3-208.56-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m2764.3-265.25v42.52" fill="none"/>
+   </g>
+   <path transform="translate(2906 -860.52)" d="m-134.65 595.28c0 3.9138-3.1728 7.0866-7.0866 7.0866-3.9138 0-7.0866-3.1728-7.0866-7.0866s3.1728-7.0866 7.0866-7.0866c3.9138 0 7.0866 3.1728 7.0866 7.0866z"/>
+   <path transform="translate(2055.1 -634.25)" d="m-134.65 595.28c0 3.9138-3.1728 7.0866-7.0866 7.0866-3.9138 0-7.0866-3.1728-7.0866-7.0866s3.1728-7.0866 7.0866-7.0866c3.9138 0 7.0866 3.1728 7.0866 7.0866z"/>
+   <g stroke-width="3">
+    <path d="m1629.9 17.716-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m1629.9 3.543v-127.56h-283.46v-56.693" fill="none"/>
+    <path d="m1374.8-180.71v28.346h396.85v113.39h141.73" fill="none"/>
+   </g>
+  </g>
+  <text x="1629.4619" y="286.72437" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="1629.4619" y="286.72437" font-style="oblique">不确定状态</tspan></text>
+  <g stroke="#000">
+   <path d="m1629.9-464.17-14.173-14.173h28.346z" fill="#fff" stroke-width="3"/>
+   <path transform="translate(1488.2 -1116.1)" d="m-134.65 595.28c0 3.9138-3.1728 7.0866-7.0866 7.0866-3.9138 0-7.0866-3.1728-7.0866-7.0866s3.1728-7.0866 7.0866-7.0866c3.9138 0 7.0866 3.1728 7.0866 7.0866z"/>
+   <path d="m1629.9-478.35v-42.52h-283.46" fill="none" stroke-width="3"/>
+   <path transform="translate(1771.7 -1116.1)" d="m-134.65 595.28c0 3.9138-3.1728 7.0866-7.0866 7.0866-3.9138 0-7.0866-3.1728-7.0866-7.0866s3.1728-7.0866 7.0866-7.0866c3.9138 0 7.0866 3.1728 7.0866 7.0866z"/>
+   <g stroke-width="3">
+    <path d="m2196.9-194.88-1e-4 -325.98h-566.93" fill="none"/>
+    <path d="m2196.9-180.71-14.173-14.173h28.347z" fill="#fff"/>
+    <path d="m2763.8-464.17-14.173-14.173h28.346z" fill="#fff"/>
+    <path d="m1063-719.29h1700.8v240.94" fill="none"/>
+   </g>
+   <path transform="translate(1204.7 -1314.6)" d="m-134.65 595.28c0 3.9138-3.1728 7.0866-7.0866 7.0866-3.9138 0-7.0866-3.1728-7.0866-7.0866s3.1728-7.0866 7.0866-7.0866c3.9138 0 7.0866 3.1728 7.0866 7.0866z"/>
+  </g>
+  <path d="m141.73-946.06h2834.6" fill="none" stroke="#808000" stroke-width="5"/>
+  <text transform="rotate(-90)" x="1328.7405" y="212.59846" fill="#808000" font-family="DejaVu Sans" font-size="50px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="1328.7405" y="212.59846">标记语言</tspan><tspan x="1328.7405" y="275.09845">( 仅数据结构 )</tspan></text>
+  <text transform="rotate(-90)" x="328.65549" y="212.59846" fill="#808000" font-family="DejaVu Sans" font-size="50px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="336.61447" y="212.59846">图灵完备</tspan><tspan x="328.65549" y="275.09845">语言</tspan></text>
+  <path d="m1204.7 868.11v-2196.9" fill="none" stroke="#f60" stroke-width="5"/>
+  <text x="1488.189" y="-1257.8744" fill="#ff6600" font-family="DejaVu Sans" font-size="50px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="1496.1479" y="-1257.8744" fill="#ff6600" font-size="50px">不确定状态</tspan></text>
+  <text x="2462.9583" y="287.0076" fill="#000000" font-family="'DejaVu Sans'" font-size="20px" font-style="oblique" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="2462.9583" y="287.0076">可观测的</tspan><tspan x="2462.9583" y="358.63123">非确定性</tspan></text>
+ </g>
+</svg>
